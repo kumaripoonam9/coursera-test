@@ -1,0 +1,19 @@
+body{
+	font-family: 'Oxygen', sans-serif;
+}
+
+header{
+	background-color: #547980;
+	
+
+}
+
+#white{
+	color: #E1F5C4;
+}
+
+.navbar-brand a:hover, 
+.navbar-brand a:focus{
+	text-decoration: none;
+	color: #E1F5C4;
+}
