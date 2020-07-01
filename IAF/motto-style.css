@@ -201,6 +201,12 @@ h1{
 		width: 60px;
 		height: 62px;
 	}
+	/* main page */
+	body{
+		background-image: url(images/Beating_Retreat_and_Tattoo_ceremony_at_Gateway_of_India1-sm.jpg);
+		background-repeat: no-repeat;
+		height: 100%;		
+	}
 }
 
 /********** Extra small devices only **********/
@@ -214,6 +220,12 @@ h1{
 		padding-top: 3px;
 		width: 58px;
 		height: 61px;
+	}
+	/* main page */
+	body{
+		background-image: url(images/Beating_Retreat_and_Tattoo_ceremony_at_Gateway_of_India1-sm.jpg);
+		background-repeat: no-repeat;
+		height: 100%;		
 	}
 	/* footer */
 	#footer-content{
