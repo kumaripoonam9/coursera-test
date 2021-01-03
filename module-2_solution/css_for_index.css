@@ -1,0 +1,57 @@
+#header_nav{
+	background-color: orange;
+	overflow: hidden;
+}
+
+#Chicken, #Beef, #Sushi{
+	text-align: center;
+	color: pink;
+	font-family: 'Helvetica';
+	font-size: 30px;
+}
+
+section{
+	border: 1px solid black;
+	background-color: grey;
+	width: 100%;
+  	height:700px;
+	color: white;
+	overflow: hidden;
+	
+
+}
+body,html{
+	overflow-x:hidden;
+}
+*{
+	box-sizing: border-box;
+}
+ul {
+    display:block;
+    width:100%;
+    margin:0;
+    padding:0;
+    text-align:right;
+}
+ul li {
+    
+    text-align: center;
+    font-size: 15px;
+    color: blue;
+    font-weight: bold;
+    
+}
+span{
+	align-items: right;
+}
+#right-side-button{
+	float: right;
+}
+.navbar-header{
+	width: 100%;
+}
+@media(min-width: 786px){
+	#right-side-button{
+		display: none;
+	}
+}
